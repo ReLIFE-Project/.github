@@ -1,5 +1,5 @@
-- [CoolLIFE Project Wiki](https://coollife-project.github.io/wiki/)
-- [Official Site](https://coollife.revolve.media/)
+- [ReLIFE Project Wiki](https://github.com/ReLIFE-Project/wiki)
+- [Official Site](https://relife-project.eu/)
 
 <!--
 
