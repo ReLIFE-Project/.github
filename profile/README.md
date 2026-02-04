@@ -1,4 +1,4 @@
-- [ReLIFE Project Wiki](https://github.com/ReLIFE-Project/wiki)
+- [ReLIFE Project Wiki](https://github.com/ReLIFE-Project/.github/wiki)
 - [Official Site](https://relife-project.eu/)
 
 <!--
